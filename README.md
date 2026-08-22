@@ -62,5 +62,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Muhammad Zohaib khan*, I am working on data science, data analyst, and AI projects, and Deployin the Production...
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Hi there! I'm **Muhammad Zohaib khan*, I am working on data science, data analyst, and AI projects, and Deployed it in the Production...
